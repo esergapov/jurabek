@@ -1,2 +1,2 @@
 # jurabek
-https://esergapov.github.io/jurabek/
+https://jurabekesirgapov.github.io/jurabek/
